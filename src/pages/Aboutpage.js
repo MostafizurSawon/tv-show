@@ -19,8 +19,8 @@ const Aboutpage = () => {
           </ul>
           <h4>Live Site and github code available</h4>
           <div>
-          <button className="custom-btnn live"> <a href=""><i class="fab fa-github me-2"></i>Github Code</a></button>
-          <button className="custom-btnn live ms-4"> <a href="">Live Site</a></button>
+          <button className="custom-btnn live"> <a href="https://github.com/MostafizurSawon/tv-show"><i class="fab fa-github me-2"></i>Github Code</a></button>
+          <button className="custom-btnn live ms-4"> <a href="https://affectionate-austin-a19788.netlify.app/">Live Site</a></button>
           </div>
         </div>
       </div>
