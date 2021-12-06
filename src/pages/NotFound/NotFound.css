@@ -1,0 +1,12 @@
+span {
+  text-decoration: none;
+  color: black;
+}
+span:hover {
+  color: white;
+}
+
+.img {
+  width: 100vw;
+  height: 100vh;
+}
