@@ -15,7 +15,7 @@ const Homepage = () => {
   const { loading, shows } = showsContext;
 
   return (
-    <div className="homepage">
+    <div className="homepage home">
       <Searchbar />
       {loading ? (
         <Loader />
